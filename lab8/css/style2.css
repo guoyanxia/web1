@@ -1,0 +1,14 @@
+body{background:url(../image/bj.png);
+background-repeat:no-repeat;}
+
+.div1{background:url(../image/lvbiaoti.png);
+background-repeat:no-repeat;
+color:white;
+padding:5px 50px 5px 50px;
+margin-left:15px;
+margin-right:15px;}
+p{background:url(../image/baibiaoti.png);
+background-repeat:no-repeat;
+padding:5px 50px 5px 50px;
+margin-left:15px;
+margin-right:15px;}

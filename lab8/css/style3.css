@@ -1,0 +1,33 @@
+
+*{
+	padding:0px;
+    margin:0px;
+    text-align:left;}
+.menu{
+	background-image:url(../image/bg.gif) ;
+    background-repeat:no-repeat;
+    margin:auto;
+    width:1005px;
+    height:75px;
+    text-align:center;
+    color:#b9f605;
+    font-size:14px;
+    font-weight:bold;
+   }
+.menu li{
+	list-style:none;
+    float:left;
+    padding:0px 15px;}
+#specil{
+	color:#fdb306;
+    }
+.menu a{
+	color:white;
+
+	text-decoration:none;}
+.menu a:hover{color:#b9f605;}
+.menu ul{ height:75px;
+    vertical-align:middle;
+width:1005px;
+margin:auto;
+line-height:75px;}
