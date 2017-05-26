@@ -1,0 +1,188 @@
+.mybody{background-image:url(../images/bodybg.gif);
+height:2000px;}
+#header{background-image:url(../images/bg.gif);
+height:205px;
+background-repeat:no-repeat;
+margin-right:0px;
+margin-top:0px;
+position:absolute;
+    left:150px;
+    right:150px;
+margin-left:0px;}
+#banner{width:1000px;
+height:164px;
+text-align:center;
+margin-top:38px ;
+
+}
+#nav{height:40px;
+background-image:url(../images/nav.jpg);
+}
+#nav_content{width:800px;
+font-weight:2em;
+font-color:#fff;
+float:left;
+position:absolute;
+top:211px;
+margin-left:100px;}
+a:hover{color:#f8f5ee;
+text-decoration:underline;}
+a:link{color:#522a06;
+text-decoration:none;}
+.a1{height:40px;
+padding:5px 5px ;
+margin-top:9px;
+color:white;
+
+}
+#nav_search{width:190px;
+margin-left:950px;
+position:absolute;
+top:211px;
+height:21px;}
+#t1{width:140px;
+height:16px;
+background-color:#f8f5ee;
+float:left;}
+#b1{width:44px;
+height:21px;
+background-color:#000;
+color:#fff;
+border:1px solid #f8f5ee;
+float:left;}
+#content_top{width:1000px;
+overflow:hidden;}
+#news_pic{width:324px;
+	background:url(../images/news_bg.png);
+	float:left;
+    height:243px;
+margin-top:10px;}
+    #s1{width:300px;
+    	height:200px;
+    	background-image:url(../images/news.jpg);
+    	margin:10px 10px 10px 10px;}
+    #s2{width:300px;
+    	height:22px;
+    	text-align:center;}
+#news_list{width:330px;
+margin-left:38px;
+float:left;
+}
+#l1{background-image:url(../images/change.png);
+width:280px;
+margin-left:25px;
+height:34px;
+background-repeat:no-repeat;
+margin-top:10px;}
+#l2{background-image:url(../images/more.png);
+height:54px;
+width:20px;
+float:right;
+background-repeat:no-repeat;
+margin-top:0px;}
+li{height:30px;}
+span{float:right;}
+#l4{background-image:url(../images/board.png);
+width:280px;
+margin-left:70px;
+height:34px;
+background-repeat:no-repeat;}
+#news_announce{width:277px;
+margin-top:10px;
+float:right;}
+#l6{width:285px;
+height:210px;
+background-image:url(../images/board_bg.png);
+background-repeat:no-repeat;
+margin-top:10px;}
+#content_bottom_left{width:715px;
+float:left;}
+#q3{width:300px;
+height:54px;
+background-image:url(../images/academic.png);
+margin-left:38px;
+float:left;}
+
+#q2{background-image:url(../images/more.png);
+height:54px;
+width:20px;
+float:right;
+background-repeat:no-repeat;}
+#q4{height:54px;}
+
+#academic{width:340px;
+float:left;}
+#book_news{width:340px;
+float:right;
+margin-left:25px;}
+#q6{width:340px;
+height:54px;
+background-image:url(../images/book_news.png);
+float:left;}
+#q7{background-image:url(../images/more.png);
+height:54px;
+width:20px;
+float:right;
+background-repeat:no-repeat;}
+#q8{height:30px;}
+#fengcai{width:700px;
+height:166px;}
+#f1{width:700px;
+background-image:url(../images/fengcai_bg1.png);
+overflow:hidden;
+background-repeat:no-repeat;}
+#f2{background-image:url(../images/more.png);
+height:54px;
+width:20px;
+background-repeat:no-repeat;}
+#f3{background-image:url(../images/fengcai_bg2.png);
+height:230px;
+width:700px;
+padding-top:2px;
+background-repeat:no-repeat;}
+li{display:inline;
+height:136px;
+margin-top:px;}
+#f5{margin-left:1px;
+	margin-top:2px;
+	margin-right:1px;
+}
+#f6{margin-right:10px;}
+#r1{background-image:url(../images/show.png);
+	background-repeat:no-repeat;
+   margin-left:70px;
+    height:32px;}
+#r2{width:362px;
+background-image:url(../images/show_bg.png);
+background-repeat:no-repeat;
+margin-left:20px;
+}
+
+#r4{width:224px;
+}
+#content{width:1000px;
+	display:inline;
+}
+#content_bottom_right{float:right;
+width:280px;
+margin-top:20px;}
+#footer{height:105px;
+    margin-top:700px;
+    background-position:center;
+    position:absolute;
+    left:0px;
+    right:0px;
+    width:1000px;
+background-image:url(../images/foot.gif);}
+#o2{background-image:url(../images/ad2.jpg);
+}
+#content{position:absolute;
+    left:150px;
+    right:150px;}
+    #o1{position:absolute;
+        left:200px;}
+        #o3{position:absolute;
+        left:200px;
+        top:50px;}
+#k1{margin-left:200px;}
+a{color:black;}
